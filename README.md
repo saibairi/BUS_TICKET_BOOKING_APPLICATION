@@ -4,15 +4,22 @@ This is a NodeJS powered Web Application, Backend and API Resource hub for it's 
 
 ## project info:
 .customer can book the bus tickets.
+
 .customer can check avaliability of seats.
+
 .customer can check their ticket status.
+
 .admin can update the ticket status.
+
 .only 40 seats can avalabile at atime, if all 40 seats are occupied, then no seat can be allotted.
 
 ## Tech stack
 .Node.js
+
 .Express
+
 .MongoDB
+
 .GIT(to publish project in GitHub)
 
 ## Installation
