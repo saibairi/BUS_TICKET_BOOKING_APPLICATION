@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saibairi/BUS_TICKET_BOOKING_APPLICATTION.git"
+    "url": "git+https://github.com/saibairi/BUS_TICKET_BOOKING_APPLICATION.git"
   },
   "keywords": [
     "nodejs",
@@ -21,9 +21,9 @@
   "author": "Saikiran Byri",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/saibairi/BUS_TICKET_BOOKING_APPLICATTION/issues"
+    "url": "https://github.com/saibairi/BUS_TICKET_BOOKING_APPLICATION/issues"
   },
-  "homepage": "https://github.com/saibairi/BUS_TICKET_BOOKING_APPLICATTION#readme",
+  "homepage": "https://github.com/saibairi/BUS_TICKET_BOOKING_APPLICATION#readme",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "dotenv": "^16.0.3",
